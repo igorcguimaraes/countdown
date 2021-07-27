@@ -29,3 +29,4 @@ function formatTime(anoNovo){
 countdown()
 
 setInterval(countdown, 1000)
+// galaxia
